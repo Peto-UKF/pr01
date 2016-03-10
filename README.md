@@ -1,1 +1,2 @@
-# pr01
+# Moja zaverecna praca
+## Bakalarska praca GIT
